@@ -22,4 +22,4 @@
 
 ![Index Page](https://github.com/PoornimaYawale/JsonPowerDbProject/blob/main/ss/Screenshot%202022-04-15%20204745.png)
 
-![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
+![Visualize](https://github.com/PoornimaYawale/JsonPowerDbProject/blob/main/ss/Screenshot%202022-04-15%20204833.png)
