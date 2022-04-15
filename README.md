@@ -20,6 +20,6 @@
 
 ![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Dashboard.PNG)
 
-![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
+![Index Page](https://github.com/PoornimaYawale/JsonPowerDbProject/blob/main/ss/Screenshot%202022-04-15%20204745.png)
 
 ![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
